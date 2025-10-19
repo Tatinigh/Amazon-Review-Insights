@@ -1,4 +1,4 @@
-# 📊 Amazon Review Pulse: Sentiment Analysis Dashboard
+# 📊 Amazon Review Insights
 
 An interactive dashboard for visualizing and analyzing customer sentiment from Amazon reviews.
 
